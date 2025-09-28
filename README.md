@@ -33,7 +33,7 @@
     </header>
 
     <div style="margin-top:8px">
-      <label>API Key (TheOddsAPI)</label>
+      <label>API Key (5039b764bc1ec7fc640762765afeb7f0)</label>
       <input id="apiKey" type="text" placeholder="วาง API Key ที่นี่ (จะไม่ถูกส่งให้ใคร)" />
     </div>
 
